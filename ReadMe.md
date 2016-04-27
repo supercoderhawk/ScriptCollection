@@ -1,0 +1,2 @@
+#一些实用的JavaScript函数和脚本
+收集一些实用的JavaScript函数和脚本
